@@ -9,13 +9,9 @@ The project is the result of an immense amount of effort from software and hardw
 
 Corporate Sponsors
 ==================
-
 .. image:: ../../../images/supporters/supporters_logo_EnRoute.png
     :width: 250px:
     :target:  http://www.enroute.co.jp/home/
-
-.. raw:: html
-   <p>
 
 .. image:: ../../../images/supporters/supporters_logo_jDrones.png
     :width: 250px:
