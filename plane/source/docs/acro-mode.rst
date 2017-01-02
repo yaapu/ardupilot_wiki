@@ -4,7 +4,7 @@
 ACRO Mode
 =========
 
-ACRO (for acrobatic) is a mode for advanced users that provides rate
+ACRO (for acrobatic) is a mode for a test edit for line endings advanced users that provides rate
 based stabilization with attitude lock. It is a good choice for people
 who want to push their plane harder than you can in :ref:`FLY BY WIRE_A (FBWA) <fbwa-mode>` or :ref:`STABILIZE <stabilize-mode>` mode without
 flying in :ref:`MANUAL <manual-mode>`. This is the mode to use for rolls,
