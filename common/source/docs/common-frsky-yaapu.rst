@@ -13,21 +13,23 @@ Hardware details are shown in  :ref:`FrSky passthrough telemetry <common-frsky-p
 
 Display on Horus, Jumper T16/T18 and Radiomaster TX16S
 
-.. image:: ../../../images/x10.png
-    :target: ../_images/x10.png
+.. image:: ../../../images/x10-horus.png
+    :target: ../_images/x10-horus.png
 
 Display on Taranis
 
-.. image:: ../../../images/x9d.png
-    :target: ../_images/x9d.png
+.. image:: ../../../images/x9d-taranis.png
+    :target: ../_images/x9d-taranis.png
 
 Display on QX7 and Jumper T12
 
-.. image:: ../../../images/x7.png
-    :target: ../_images/x7.png
+.. image:: ../../../images/x7-taranis.png
+    :target: ../_images/x7-taranis.png
 
 
-Details can be found `here <https://discuss.ardupilot.org/t/an-open-source-frsky-telemetry-script-for-the-horus-x10-x12-and-taranis-x9d-x9e-and-qx7-radios/26443>`__. Latest script releases are `here <https://github.com/yaapu/FrskyTelemetryScript/releases>`__.
+Details can be found `here <https://discuss.ardupilot.org/t/an-open-source-frsky-telemetry-script-for-the-horus-x10-x12-and-taranis-x9d-x9e-and-qx7-radios/26443>`__.
+
+Latest script releases are `here <https://github.com/yaapu/FrskyTelemetryScript/releases>`__.
 
 The script is also compatible with the excellent `MavlinkToPassthru converter firmware <https://github.com/zs6buj/MavlinkToPassthru>`__ by Eric Stockenstrom which allows alternative telemetry transport methods, such as the data modem in DragonlinkRC RC systems, to feed MAVLink data into these transmitters for display by this LUA script.
 
